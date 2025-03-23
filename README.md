@@ -48,4 +48,4 @@ Heb je vragen of suggesties? Neem contact op via e-mail: **jouw.email@example.co
 
 ---
 
-**Opmerking:** Deze website is in de beginfase. De winkelwagentjes en betalingssystemen moeten nog worden geïntegreerd om het een volledige e-commerce-ervaring te maken.
+
