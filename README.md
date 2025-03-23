@@ -34,7 +34,7 @@
             <div class="product">
                 <img src="auto2.jpg" alt="Auto 2">
                 <h3>Luxe Sedan</h3>
-                <p>€60,000</p>
+                <p>€63,000</p>
                 <button class="add-to-cart">Voeg toe aan winkelwagen</button>
             </div>
             <div class="product">
