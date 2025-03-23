@@ -26,7 +26,7 @@
     <section id="producten" class="product-section">
         <div class="product-container">
             <div class="product">
-                <img src="auto1.jpg" alt="Auto 1">
+                <img src="2e46371b8d5b9b.jpg" alt="Sportwagen">
                 <h3>Sportwagen</h3>
                 <p>€50,000</p>
                 <button class="add-to-cart">Voeg toe aan winkelwagen</button>
